@@ -1,7 +1,7 @@
 ### Olá, eu sou o Miguel Arthur 
 
-- 👨‍💻 Desenvolvedor 
-- 🚀 Estudando Unity - C#
+- 👨‍💻 Desenvolvedor Full Stack | DevSecOps -> Blue Team
+- 🚀 Estudando Ruby
 - 📧 Contate-me no email: miguelarthur1outlook.com
 - 🔎 Linkedin: https://www.linkedin.com/in/miguel-arthur-oliveira-de-lima-127b50233/
 
